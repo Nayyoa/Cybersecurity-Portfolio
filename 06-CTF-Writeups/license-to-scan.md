@@ -1,5 +1,5 @@
 
-# 007: License to Scan — Custom Protocol Analysis
+# 007: License to Scan Custom Protocol Analysis
 
 ## Challenge Overview
 
