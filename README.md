@@ -148,6 +148,7 @@ Development of a security monitoring and incident response environment integrati
 ---
 
 ## 🏆 Certifications & Credentials
+[View All Certifications & Credentials](05-Certifications/)
 
 ### Completed
 
