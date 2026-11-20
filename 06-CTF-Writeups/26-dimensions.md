@@ -48,10 +48,6 @@ for a hardcoded value.
 The challenge was successfully
 solved, earning 100 points.
 
-The exact inspection steps
-and recovered value have not
-yet been reconstructed.
-
 ## Security Lessons
 
 Hardcoded information in software
