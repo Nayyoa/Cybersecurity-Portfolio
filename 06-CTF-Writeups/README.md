@@ -108,6 +108,11 @@ web exploitation, and database investigation.
 | Cloud Pillage | Web Exploitation | 300 | [Read](cloud-pillage.md) |
 | All About Flags | Reverse Engineering | 100 | [Read](all-about-flags.md) |
 | Haunting Halloween Bash | Digital Forensics | 200 | [Read](haunting-halloween-bash.md) |
+| 64 Types of Candy | Cryptography | 100 | [Read](64-types-of-candy.md) |
+| 64th Base | Cryptography | 100 | [Read](64th-base.md) |
+| 26 Dimensions | Reverse Engineering | 100 | [Read](26-dimensions.md) |
+| Clock Out | Reverse Engineering | 250 | [Read](clock-out.md) |
+| Conspiracy | Forensics | 350 | [Read](conspiracy.md) |
 
 ---
 
