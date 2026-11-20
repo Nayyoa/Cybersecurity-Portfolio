@@ -113,6 +113,11 @@ web exploitation, and database investigation.
 | 26 Dimensions | Reverse Engineering | 100 | [Read](26-dimensions.md) |
 | Clock Out | Reverse Engineering | 250 | [Read](clock-out.md) |
 | Conspiracy | Forensics | 350 | [Read](conspiracy.md) |
+| Cryptic COBOL | Reverse Engineering | 300 | [Read](cryptic-cobol.md) |
+| Duality of Key | Cryptography | 300 | [Read](duality-of-key.md) |
+| A Block for You, A Block For ??? | Cryptography | 400 | [Read](a-block-for-you.md) |
+| PDF Forensics | Forensics | 125 | [Read](pdf-forensics.md) |
+| Baby Something | Forensics | 50 | [Read](baby-something.md) |
 
 ---
 
