@@ -1,5 +1,5 @@
 
-# Covert Ping — ICMP Exfiltration Analysis
+# Covert Ping ICMP Exfiltration Analysis
 
 ## Challenge Overview
 
