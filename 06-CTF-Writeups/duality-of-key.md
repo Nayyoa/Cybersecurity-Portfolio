@@ -1,5 +1,5 @@
 
-# Duality of Key — Cryptographic Investigation
+# Duality of Key Cryptographic Investigation
 
 ## Challenge Overview
 
