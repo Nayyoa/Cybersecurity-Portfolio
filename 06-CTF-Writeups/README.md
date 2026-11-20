@@ -92,18 +92,15 @@ web exploitation, and database investigation.
 
 ---
 
+
 ## Selected Writeups
 
-Detailed technical writeups will be
-published progressively.
+| Challenge | Category | Points | Writeup |
+|---|---|---:|---|
+| Covert Ping | Network Forensics | 100 | [Read Writeup](covert-ping.md) |
 
-Each writeup will include:
+Additional writeups will be published progressively.
 
-1. Challenge overview
-2. Investigation methodology
-3. Tools and techniques
-4. Findings
-5. Lessons learned
 
 ---
 
