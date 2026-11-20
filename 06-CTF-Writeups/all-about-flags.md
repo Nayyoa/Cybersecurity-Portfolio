@@ -65,8 +65,3 @@ understanding software.
 - Reverse engineering fundamentals
 - Executable investigation
 - Technical problem-solving
-
-## Documentation Status
-
-Technical investigation steps and
-supporting evidence: pending verification.
