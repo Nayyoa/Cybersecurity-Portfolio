@@ -1,5 +1,5 @@
 
-# Cleartext Logging — Windows Event Log Forensics
+# Cleartext Logging Windows Event Log Forensics
 
 ## Challenge Overview
 
