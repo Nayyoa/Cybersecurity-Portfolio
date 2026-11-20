@@ -103,6 +103,11 @@ web exploitation, and database investigation.
 | Database Beta Haste | SQLite Forensics | 225 | [Read](database-beta-haste.md) |
 | Architecture Astronaut | Reverse Engineering | 100 | [Read](architecture-astronaut.md) |
 | A Naive Hash | Cryptography | 100 | [Read](a-naive-hash.md) |
+| Cookie Catastrophe | Web Exploitation | 175 | [Read](cookie-catastrophe.md) |
+| Boston Dynamics Fanpage | Web Exploitation | 275 | [Read](boston-dynamics-fanpage.md) |
+| Cloud Pillage | Web Exploitation | 300 | [Read](cloud-pillage.md) |
+| All About Flags | Reverse Engineering | 100 | [Read](all-about-flags.md) |
+| Haunting Halloween Bash | Digital Forensics | 200 | [Read](haunting-halloween-bash.md) |
 
 ---
 
