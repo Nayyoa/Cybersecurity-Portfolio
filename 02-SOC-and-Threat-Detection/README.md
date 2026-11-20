@@ -19,6 +19,8 @@ capabilities.
 
 ### 1. Security Monitoring & Anomaly Detection
 
+**Technical Documentation:** [View Project](security-monitoring-anomaly-detection.md)
+
 **Context:** Cybersecurity Internship —
 Royal Air Maroc (2025)
 
