@@ -40,9 +40,6 @@ solution.
 The challenge was successfully solved,
 earning 275 points.
 
-The specific security weakness,
-technical evidence, and exploitation
-sequence still require reconstruction.
 
 ## Security Lessons
 
