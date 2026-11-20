@@ -45,10 +45,6 @@ been confirmed.
 The challenge was successfully solved,
 earning 100 points.
 
-The specific program behavior and
-flag recovery method remain to
-be reconstructed.
-
 ## Security Lessons
 
 Executable analysis can help
