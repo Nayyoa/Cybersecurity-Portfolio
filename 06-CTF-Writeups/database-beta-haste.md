@@ -1,5 +1,5 @@
 
-# Database Beta Haste — SQLite Forensics
+# Database Beta Haste SQLite Forensics
 
 ## Challenge Overview
 
