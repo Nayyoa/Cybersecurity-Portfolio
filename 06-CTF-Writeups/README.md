@@ -92,15 +92,12 @@ web exploitation, and database investigation.
 
 ---
 
-
 ## Selected Writeups
 
 | Challenge | Category | Points | Writeup |
 |---|---|---:|---|
 | Covert Ping | Network Forensics | 100 | [Read Writeup](covert-ping.md) |
-
-Additional writeups will be published progressively.
-
+| Moving Target | Network Forensics | 100 | [Read Writeup](moving-target.md) |
 
 ---
 
