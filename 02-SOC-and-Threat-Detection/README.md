@@ -66,6 +66,8 @@ the Elastic Stack.
 
 ### 2. AI-Driven SOC & Incident Response
 
+**Technical Documentation:** [View Project](ai-driven-soc-incident-response.md)
+
 **Context:** Academic Cybersecurity Project
 
 **Focus:** SOC Automation, Incident Response,
