@@ -1,5 +1,5 @@
 
-# Moving Target — DNS Fast Flux Investigation
+# Moving Target DNS Fast Flux Investigation
 
 ## Challenge Overview
 
