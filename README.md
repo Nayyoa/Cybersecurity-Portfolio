@@ -250,11 +250,9 @@ Cybersecurity-Portfolio/
 |
 |-- 04-AI-and-LLM-Security/
 |
-|-- 05-GRC-and-Security-Audits/
+|-- 05-Certifications/
 |
 |-- 06-CTF-Writeups/
-|
-|-- 07-Certifications/
 |
 |-- README.md
 ```
