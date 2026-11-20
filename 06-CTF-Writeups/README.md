@@ -96,8 +96,13 @@ web exploitation, and database investigation.
 
 | Challenge | Category | Points | Writeup |
 |---|---|---:|---|
-| Covert Ping | Network Forensics | 100 | [Read Writeup](covert-ping.md) |
-| Moving Target | Network Forensics | 100 | [Read Writeup](moving-target.md) |
+| Covert Ping | Network Forensics | 100 | [Read](covert-ping.md) |
+| Moving Target | Network Forensics | 100 | [Read](moving-target.md) |
+| Cleartext Logging | Windows Forensics | 275 | [Read](cleartext-logging.md) |
+| 007: License to Scan | Network Forensics | 250 | [Read](license-to-scan.md) |
+| Database Beta Haste | SQLite Forensics | 225 | [Read](database-beta-haste.md) |
+| Architecture Astronaut | Reverse Engineering | 100 | [Read](architecture-astronaut.md) |
+| A Naive Hash | Cryptography | 100 | [Read](a-naive-hash.md) |
 
 ---
 
