@@ -69,7 +69,3 @@ application binaries.
 - Program investigation
 - Analytical problem-solving
 
-## Documentation Status
-
-Original technical steps:
-pending verification.
