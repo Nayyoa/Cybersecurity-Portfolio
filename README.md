@@ -86,7 +86,7 @@ Security assessment of generative AI and LLM usage in an enterprise environment.
 
 **Technologies:** Netskope One AI Security, CrowdStrike, NIST AI RMF, OWASP LLM Top 10
 
-[View Project](03-AI-and-LLM-Security/)
+[View Project](04-AI-and-LLM-Security/)
 
 ---
 
@@ -122,9 +122,9 @@ Development of an automated malware analysis environment using sandbox technolog
 - Extracted Indicators of Compromise (IOCs).
 - Analyzed malware behavior and generated reports.
 
-**Technologies:** CAPEv2, Python, Linux, Docker
+**Technologies:** CAPEv2, VirtualBox, Ubuntu Linux, Windows 10, Python, Wireshark
 
-[View Project](04-Malware-Analysis/)
+[View Project](03-Malware-Analysis/)
 
 ---
 
@@ -239,15 +239,16 @@ Additional labs will be added as I progress through the certificate program.
 
 ## 📂 Portfolio Structure
 
+```text
 Cybersecurity-Portfolio/
 |
 |-- 01-Google-Cybersecurity-Certificate/
 |
 |-- 02-SOC-and-Threat-Detection/
 |
-|-- 03-AI-and-LLM-Security/
+|-- 03-Malware-Analysis/
 |
-|-- 04-Malware-Analysis/
+|-- 04-AI-and-LLM-Security/
 |
 |-- 05-GRC-and-Security-Audits/
 |
@@ -256,6 +257,7 @@ Cybersecurity-Portfolio/
 |-- 07-Certifications/
 |
 |-- README.md
+```
 
 ---
 
