@@ -61,7 +61,3 @@ verifying its security implications.
 - Security testing
 - Analytical problem-solving
 
-## Documentation Status
-
-Technical investigation steps and
-supporting evidence: pending verification.
