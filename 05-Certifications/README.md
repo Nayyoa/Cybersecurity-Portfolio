@@ -1,5 +1,5 @@
 
-# 🏆 Cybersecurity Certifications & Credentials
+# Cybersecurity Certifications & Credentials
 
 This section documents my professional certifications, verified credentials, and ongoing cybersecurity training.
 
@@ -7,9 +7,9 @@ My certification journey focuses on strengthening my expertise in security opera
 
 ---
 
-## ✅ Completed Certifications
+## Completed Certifications
 
-### ☁️ Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+### Oracle Cloud Infrastructure 2025 Certified Foundations Associate
 
 **Issuer:** Oracle  
 **Completion Date:** October 21, 2025  
@@ -31,7 +31,7 @@ My certification journey focuses on strengthening my expertise in security opera
 
 ---
 
-### 🔐 Foundations of Cybersecurity
+### Foundations of Cybersecurity
 
 **Issuer:** Google / Coursera  
 **Completion Date:** November 19, 2026  
@@ -58,7 +58,7 @@ My certification journey focuses on strengthening my expertise in security opera
 
 ---
 
-## 📚 Certifications in Progress
+## Certifications in Progress
 
 ### Google Cybersecurity Professional Certificate
 
@@ -81,7 +81,7 @@ Progress, practical exercises, and portfolio deliverables are documented in the 
 
 ---
 
-## 🎯 Planned Certifications
+## Planned Certifications
 
 ### CompTIA Security+
 
@@ -100,7 +100,7 @@ This certification is part of my professional development plan to strengthen my 
 
 ---
 
-## 📈 Continuous Professional Development
+## Continuous Professional Development
 
 I continuously develop my technical and analytical skills through:
 
@@ -115,7 +115,7 @@ My goal is to combine recognized certifications with real-world technical experi
 
 ---
 
-## 🔗 Related Portfolio Sections
+## Related Portfolio Sections
 
 - [Main Portfolio](../README.md)
 - [Google Cybersecurity Certificate Labs](../01-Google-Cybersecurity-Certificate/)
