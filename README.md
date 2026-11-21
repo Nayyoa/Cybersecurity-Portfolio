@@ -31,7 +31,7 @@ My goal is to leverage my technical expertise and problem-solving skills to help
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Security Monitoring & Detection
 - SIEM: Splunk, ELK Stack, Wazuh
@@ -69,7 +69,7 @@ My goal is to leverage my technical expertise and problem-solving skills to help
 
 ---
 
-## 🚀 Cybersecurity Projects
+## Cybersecurity Projects
 
 ### 1. AI & LLM Security Assessment
 
@@ -194,9 +194,9 @@ Credential: [View Google Certificate](https://coursera.org/share/5403ed006fbfd1d
 **Date:** October 25–26, 2026
 
 **Competition Results:**
-- 🏅 Final Ranking: 21st out of 473 participants
-- 🎯 Final Score: 4,275 points
-- 📊 Top 4.5% of participants
+-  Final Ranking: 21st out of 473 participants
+-  Final Score: 4,275 points
+-  Top 4.5% of participants
 
 Participated in a cybersecurity Capture The Flag
 competition, solving hands-on challenges across
