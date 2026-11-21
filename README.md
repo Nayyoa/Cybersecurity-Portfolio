@@ -1,5 +1,5 @@
 
-# 🔐 Cybersecurity Portfolio
+# Cybersecurity Portfolio
 
 ### Cybersecurity Engineer | SOC & Threat Detection | AI Security | GRC
 
@@ -11,7 +11,7 @@ This repository showcases my technical projects, professional experience, cybers
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I am a cybersecurity engineer with hands-on experience in security monitoring, threat detection, risk assessment, and AI security.
 
@@ -147,7 +147,7 @@ Development of a security monitoring and incident response environment integrati
 
 ---
 
-## 🏆 Certifications & Credentials
+## Certifications & Credentials
 [View All Certifications & Credentials](05-Certifications/)
 
 ### Completed
@@ -187,9 +187,9 @@ Credential: [View Google Certificate](https://coursera.org/share/5403ed006fbfd1d
 
 ---
 
-## 🚩 CTF Competitions
+## CTF Competitions
 
-### 🏆 Bits n Bytes CTF 2026 — MetaCTF
+### Bits n Bytes CTF 2026 — MetaCTF
 
 **Date:** October 25–26, 2026
 
@@ -213,7 +213,7 @@ multiple security domains.
 
 ---
 
-## 📚 Google Cybersecurity Certificate Labs
+## Google Cybersecurity Certificate Labs
 
 This section documents practical exercises completed throughout the Google Cybersecurity Professional Certificate.
 
@@ -238,7 +238,7 @@ Additional labs will be added as I progress through the certificate program.
 
 ---
 
-## 📂 Portfolio Structure
+## Portfolio Structure
 
 ```text
 Cybersecurity-Portfolio/
@@ -260,7 +260,7 @@ Cybersecurity-Portfolio/
 
 ---
 
-## 🌱 Continuous Learning
+## Continuous Learning
 
 I am committed to continuously developing my cybersecurity knowledge through professional certifications, technical projects, hands-on labs, and cybersecurity competitions.
 
@@ -275,7 +275,7 @@ My current learning priorities include:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 **LinkedIn:** [Nada Mchich](https://www.linkedin.com/in/nada-mchich/)
 
