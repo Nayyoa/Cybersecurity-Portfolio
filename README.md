@@ -189,7 +189,7 @@ Credential: [View Google Certificate](https://coursera.org/share/5403ed006fbfd1d
 
 ## CTF Competitions
 
-### Bits n Bytes CTF 2026 — MetaCTF
+### Bits n Bytes CTF 2026 MetaCTF
 
 **Date:** October 25–26, 2026
 
@@ -267,11 +267,9 @@ I am committed to continuously developing my cybersecurity knowledge through pro
 My current learning priorities include:
 
 - Google Cybersecurity Professional Certificate
-- CompTIA Security+
-- Security Operations & Threat Detection
-- Cloud Security
-- Governance, Risk & Compliance
-- AI Security
+- CompTIA Security+ 
+- Miscrosoft SC-200 
+- ISO 27001
 
 ---
 
