@@ -28,6 +28,12 @@ Professional Certificate on Coursera.
 
 [View Certificate](https://coursera.org/share/5403ed006fbfd1dd4df5c279f9be5d3e)
 
+
+### Course 2 – Play It Safe: Manage Security Risks
+
+- [Botium Toys – Internal Security Audit](./02-Play-It-Safe-Manage-Security-Risks/Botium-Toys-Security-Audit/README.md)  
+  Internal security audit covering risk assessment, security controls, PCI DSS, GDPR, SOC 1/SOC 2, and prioritized remediation recommendations.
+
 ---
 
 Additional labs and projects will be added
