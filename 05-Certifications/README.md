@@ -58,12 +58,42 @@ My certification journey focuses on strengthening my expertise in security opera
 
 ---
 
+### Play It Safe: Manage Security Risks
+
+**Issuer:** Google / Coursera  
+**Completion Date:** November 25, 2026  
+**Status:** Completed
+
+**Program:** Google Cybersecurity Professional Certificate — Course 2
+
+#### Knowledge & Skills
+
+- Security risk assessment and management
+- Security frameworks and control categories
+- NIST Cybersecurity Framework (CSF)
+- NIST Risk Management Framework (RMF)
+- Internal security auditing
+- Regulatory compliance and security standards
+- PCI DSS, GDPR, and SOC 1/SOC 2 fundamentals
+- SIEM tools and security dashboards
+- Log analysis and security monitoring
+- Incident response and security playbooks
+
+**Credential Verification:**  
+[View Google Certificate](https://coursera.org/share/2b26d47addeb3032230d03d2bd9f5ac5)
+
+**Related Portfolio Work:**  
+[Botium Toys – Internal Security Audit](../01-Google-Cybersecurity-Certificate/02-Play-It-Safe-Manage-Security-Risks/Botium-Toys-Security-Audit/README.md)
+
+---
+
 ## Certifications in Progress
 
 ### Google Cybersecurity Professional Certificate
 
 **Issuer:** Google / Coursera  
-**Status:** In Progress
+**Status:** In Progress  
+**Progress:** 2/9 courses completed (22.22%)
 
 This professional certificate program covers foundational and practical cybersecurity concepts, including:
 
