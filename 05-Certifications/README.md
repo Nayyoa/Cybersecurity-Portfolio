@@ -62,6 +62,7 @@ My certification journey focuses on strengthening my expertise in security opera
 
 **Issuer:** Google / Coursera  
 **Completion Date:** November 25, 2026  
+**Final Grade:** 92.28%  
 **Status:** Completed
 
 **Program:** Google Cybersecurity Professional Certificate — Course 2
